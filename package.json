@@ -12,7 +12,7 @@
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "next": "^14.2.3",
-    "@canvasjs/react-charts": "^1.0.2",
+    "@canvasjs/react-charts": "^1.0.2"
   },
   "devDependencies": {
     "@types/node": "^20.12.12",
